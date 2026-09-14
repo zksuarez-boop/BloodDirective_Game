@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f0e2c757860de4db814a2021b2e52a, type: 3}
+  m_Name: Act1_BunkerIntakeRoute
+  m_EditorClassIdentifier: Assembly-CSharp::BloodDirective.Data.LevelDefinition
+  _levelId: act1_bunker_intake_route
+  _displayName: Bunker Intake
+  _biomeId: underground_bunker
+  _roomCount: 5
+  _mission: {fileID: 11400000, guid: 88e101d1ee2e463479950f32ea3e7315, type: 2}
+  _rooms:
+  - {fileID: 11400000, guid: 217c431aa73543d4d8fbdfb8a9357661, type: 2}
+  - {fileID: 11400000, guid: a1986e792d2c1ca4081f0945b42948a5, type: 2}
+  - {fileID: 11400000, guid: 992596800668cd64989a1f09613ec941, type: 2}
+  - {fileID: 11400000, guid: 4b8e2a78194957d46a7eaa796fec2897, type: 2}
+  - {fileID: 11400000, guid: 8252a812c7abd0e4b87986707ae8d4a0, type: 2}

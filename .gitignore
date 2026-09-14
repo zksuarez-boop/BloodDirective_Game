@@ -1,0 +1,47 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Crash and build logs
+*.stackdump
+*Build.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+
+# Large local archives/build exports
+*.zip
+*.7z
+*.rar
+*.exe
+*.app
+*.apk
+*.aab
