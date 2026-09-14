@@ -1,0 +1,20 @@
+# Unreal generated output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+*.sln
+*.slnx
+*.vcxproj*
+*.suo
+*.user
+*.pdb
+*.VC.db
+*.VC.opendb
+# Packaging output; keep Build/ resources under version control
+Packaged/
+Builds/
+.DS_Store
+Thumbs.db
