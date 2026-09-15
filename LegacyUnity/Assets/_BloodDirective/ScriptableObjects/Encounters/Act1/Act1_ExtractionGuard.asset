@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009d53183020bc3408df66e1de306866, type: 3}
+  m_Name: Act1_ExtractionGuard
+  m_EditorClassIdentifier: Assembly-CSharp::BloodDirective.Data.EncounterDefinition
+  _encounterId: act1_extraction_guard
+  _displayName: Extraction Guard
+  _objective: Use the calibrated route to clear the Grey guarding extraction.
+  _completionCondition: The extraction Grey is defeated and the pad is available.
+  _expectedGreyCount: 1
+  _requiresScientistCalibration: 1
+  _requiresAether: 1
